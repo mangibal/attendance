@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#EE3C2B</color>
+    <color name="colorPrimaryDark">#AA1F23</color>
+    <color name="colorAccent">#9BCB65</color>
+    <color name="green">#689E41</color>
+    <color name="davyGray">#525B60</color>
+    <color name="tuftsBlue">#2F8ABD</color>
+    <color name="antiFlashWhite">#F3F3F3</color>
+    <color name="carolinaBlue">#85B9DF</color>
+    <color name="richBriliantLavender">#F79CF3</color>
+    <color name="isabelline">#EEEEEE</color>
+    <color name="unitedNationsBlue">#53A8E2</color>
+    <color name="tangerineYellow">#FFC700</color>
+    <color name="flavescent">#FFE99C</color>
+    <color name="darkCyan">#009688</color>
+</resources>
